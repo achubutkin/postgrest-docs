@@ -21,7 +21,7 @@
   :target: https://www.paypal.me/postgrest
 
 |
-PostgREST is a standalone web server that turns your PostgreSQL database directly into a RESTful API. The structural constraints and permissions in the database determine the API endpoints and operations. Jump to the Tutorials section for a quickstart.
+PostgREST is a standalone web server that turns your PostgreSQL database directly into a RESTful API. The structural constraints and permissions in the database determine the API endpoints and operations.
 
 Motivation
 ----------
